@@ -1,0 +1,19 @@
+pose:
+  yaw_deg_cheat: 35
+  pitch_deg_cheat: 25
+  min_frames: 10
+
+phone:
+  min_frames: 12
+
+talk:
+  mouth_open_ratio: 0.5
+  max_distance: 100
+  min_frames: 10
+
+score:
+  look_around: 1.0
+  phone_use: 2.5
+  talking: 1.5
+  decay: 0.05
+  cheat_threshold: 4.0
