@@ -29,5 +29,3 @@ Running the Application
 streamlit app.py
 
 
-![Cheating](Output1.jpg)
-![Non Cheating](output2.jpg)
